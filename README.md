@@ -5,7 +5,8 @@
 
 ## Offensive Security:
 
-[![Home Lab Design](https://img.shields.io/badge/Home%20Lab-Conceptual%20Design-black?style=for-the-badge)](https://github.com/Louis-G-Cyber/Portfolio/blob/main/Home%20Lab.pdf)
+[![Home Lab Design](https://img.shields.io/badge/%F0%9F%93%84%20Home%20Lab-Conceptual%20Design-1E90FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Louis-G-Cyber/Portfolio/blob/main/Home%20Lab.pdf)
+
 
 ## Defensive Security:
 
